@@ -1,2 +1,17 @@
-# techstack
-A streamlined bash script for bootstrapping projects with my custom tech-stack and configuration settings, enhancing setup efficiency.
+# tech-stack
+This repository contains a meticulously crafted bash script designed for automating the project setup process. It swiftly bootstraps new projects with my personalized tech-stack and custom configuration settings that I've developed over the years. This script is the embodiment of lessons learned from multiple projects, aiming to enhance setup efficiency and reduce time-to-development. It offers an optimized way to start a new project, minimizing boilerplate code and configuration efforts, and allowing you to focus more on the actual development.
+
+## technologies
+- TypeScript
+- React
+- Next.js
+- Prisma
+- TailwindCSS
+- lucide-react
+- zustand
+- eslint
+- prettier
+- shadcn/ui
+- husky
+- lint-staged
+- pretty-quick
